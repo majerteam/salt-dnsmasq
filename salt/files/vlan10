@@ -1,0 +1,3 @@
+dhcp-range=vlan10,10.10.0.100,10.10.0.255,12h
+dhcp-option=vlan10,option:router,10.10.1.254
+dhcp-host=00:80:88:77:66:55,10.10.1.254

@@ -1,0 +1,3 @@
+{% for hostdata in pillar.lan_hosts %}
+{{ hostdata['ip'] }} {{ hostname }}.{{ tld }}
+{% endfor %}
