@@ -4,7 +4,7 @@ salt-dnsmasq
 Initial config
 ---------------
 
-Some values should be tweaked in salt/init.sls and every file of files.
+Some values should be tweaked in salt/init.sls and each file of files.
 
 Day to day config
 ------------------
